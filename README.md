@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andreypudov
+- 👀 I’m interested in back-end development using C#
+- 🌱 I’m currently learning processing RAW photo data
+- 💞️ I’m looking to collaborate on challenging problems
+- 📫 You can always reach me via email mail@andreypudov.com
