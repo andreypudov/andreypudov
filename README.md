@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @andreypudov
-- 👀 I’m interested in back-end development using C#
-- 🌱 I’m currently learning neural networks
-- 💞️ I’m looking to collaborate on challenging problems
-- 📫 You can always reach me via email mail@andreypudov.com
+- 👋 Hi, I’m @andreypudov, a full-stack engineer working with TypeScript and C#.
+- 🔭 I’m currently working on:<br>
+  **CoreEQ**: a system-wide equalizer for macOS<br>
+  **spectral-lab**: takes infrared DNG files in and produces editor-ready DNG files
+- 💞️ I’m open to collaborating on interesting projects.
+- 📫 You can reach me at mail@andreypudov.com.
